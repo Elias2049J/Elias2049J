@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elias2049J
-- 👀 I’m interested in Android - Java - Kotlin Development
-- 🌱 I’m currently learning Kotlin Multiplatform and Compose
+- 👋 Hi, I’m @Elias2049J 
+- 👀 I’m interested in robust business systems Development with Java
+- 🌱 I’m currently learning Java - Kotlin
 - 📫 How to reach me: henoceliasjorgeugarte@gmail.com
